@@ -511,6 +511,7 @@ table {
 .clearfix:after {
     content: " ";
     display: table;
+    justify-content: center;
 }
 
 .clearfix:after {
